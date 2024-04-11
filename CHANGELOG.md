@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.4](https://github.com/visgl/react-google-maps/compare/v0.8.3...v0.8.4) (2024-04-11)
+
+
+### Bug Fixes
+
+* omit map prop from markers ([#305](https://github.com/visgl/react-google-maps/issues/305)) ([8a38acf](https://github.com/visgl/react-google-maps/commit/8a38acf04ab665bbeeeef87a87d195bcbf44ccea))
+
 ## [0.8.3](https://github.com/visgl/react-google-maps/compare/v0.8.2...v0.8.3) (2024-04-04)
 
 
